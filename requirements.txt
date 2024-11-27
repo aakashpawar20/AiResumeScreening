@@ -1,0 +1,8 @@
+streamlit
+spacy
+transformers
+torch
+scikit-learn
+PyPDF2
+python-docx
+matplotlib
