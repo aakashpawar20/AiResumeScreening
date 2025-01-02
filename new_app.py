@@ -21,8 +21,8 @@ eligible_color = "#2196F3"  # Blue for eligible candidates
 not_eligible_color = "#F44336"  # Red for not eligible candidates
 
 # Predefined login credentials
-USERNAME = "mmanu619"
-PASSWORD = "mmanu@619"
+USERNAME = "aakash8767"
+PASSWORD = "aakash@8767"
 
 # Predefined job roles and descriptions
 job_roles = {
@@ -217,7 +217,8 @@ def login():
             if username == USERNAME and password == PASSWORD:
                 st.success("Login successful!")
                 st.session_state["logged_in"] = True
-                st.experimental_rerun()
+                st.rerun()
+
             else:
                 st.error("Invalid username or password.")
 

@@ -27,8 +27,8 @@ Interact with the Application
 
 Login: Enter the predefined credentials to log in.
 
-Username: mmanu619
-Password: mmanu@619
+Username: aakash8767
+Password: aakash@8767
 Upload a Resume: You can upload a resume in PDF, DOCX, or TXT format.
 
 Upload a Job Description: You can either upload a custom job description or choose from predefined ones.
